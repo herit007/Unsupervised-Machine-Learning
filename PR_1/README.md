@@ -8,7 +8,7 @@
 |---|---|
 | **Institute** | Red & White Skill Education |
 | **Subject** | Unsupervised Learning — Practical Report 1 (PR 1) |
-| **Student** | [YOUR FULL NAME] · GRID: [YOUR GRID] |
+| **Student** | Tanna Herit · GRID: 11431 |
 | **Notebook** | [`UL_PR1.ipynb`](UL_PR1.ipynb) · [HTML version](UL_PR1.html) |
 
 ---
@@ -280,6 +280,3 @@ Use **Kernel → Restart & Run All** to reproduce every result. The notebook exp
 ## 👤 Author
 
 **Tanna Herit** — GRID: 11431  
-Computer Engineering Diploma Student, A.V.P.T.I. Rajkot · AI/ML & Data Science at Red & White Skill Education
-
-*Submitted for Unsupervised Learning — PR 1, Red & White Skill Education.*
