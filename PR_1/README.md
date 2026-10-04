@@ -46,7 +46,7 @@ The whole analysis is done in a single Jupyter Notebook: data loading and EDA �
 
 ## 🎥 Video Explanation
 
-▶️ **Watch the video walkthrough (face + screen, ~8 minutes):** [PASTE YOUR GOOGLE DRIVE / YOUTUBE LINK HERE](PASTE_LINK_HERE)
+▶️ **Watch the video walkthrough (face + screen):** [Project Explanation Video](https://drive.google.com/file/d/1yy8jRmYzmKO82lWQUvIcXTaTZeQbi-4C/view?usp=sharing)
 
 The video explains: why scaling is needed, how to read the Elbow and Silhouette plots, how to read a dendrogram (and what Ward linkage minimises), what `eps` and `min_samples` control in DBSCAN, how the three algorithms differ, and what the segments mean for the business.
 
