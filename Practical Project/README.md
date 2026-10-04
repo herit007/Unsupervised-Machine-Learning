@@ -42,7 +42,7 @@ The credit-cards division of a large Indian private bank wants to move away from
 | Missing values | `CREDIT_LIMIT` (1) and `MINIMUM_PAYMENTS` (313), imputed with the median |
 
 ## 🎥 Video Explanation
-**▶️ Watch the project walkthrough (face + screen, ~8 min):** [PASTE YOUR GOOGLE DRIVE / YOUTUBE (UNLISTED) LINK HERE](PASTE_LINK_HERE)
+**▶️ Watch the project walkthrough (face + screen):** [Project Explanation Video](https://drive.google.com/file/d/1FwYT2oHTLMO3u2XNF5okptSv-b040ksV/view?usp=sharing)
 
 ## 📁 Repository Structure
 ```
